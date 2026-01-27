@@ -25,12 +25,12 @@
 <br>
 
 <p>
-  <a href="你的论文链接(如arXiv)">
+  <a href="你的论文链接">
     <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="Paper">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Tankowa/SNR-Edit">
-    <img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <a href="http://47.94.209.197:5008/">
+    <img src="https://img.shields.io/badge/Project-Page-20BEFF?style=flat&logo=google-chrome&logoColor=white" alt="Project Page">
   </a>
   &nbsp;&nbsp;
   <a href="你的数据集链接">
@@ -44,7 +44,7 @@
 
 ## 🚧 Coming Soon
 
-The code, paper, and dataset for **SNR-Edit** are currently being prepared and will be released soon. 
+The project page, paper, and dataset for **SNR-Edit** are currently being prepared and will be released soon. 
 
 Please stay tuned!
 
