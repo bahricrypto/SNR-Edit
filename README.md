@@ -25,7 +25,7 @@
 <br>
 
 <p>
-  <a href="你的论文链接">
+  <a href="https://arxiv.org/abs/2601.19180">
     <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat&logo=arxiv&logoColor=white" alt="Paper">
   </a>
   &nbsp;&nbsp;
